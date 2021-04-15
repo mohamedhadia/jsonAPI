@@ -3,7 +3,7 @@
     { "id": "1", "title": "proj 1", "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,", "img":"https://via.placeholder.com/150" },
     { "id": "2", "title": "proj 2" },
     { "id": "3", "title": "proj 3" },
-        { "id": "4", "title": "proj 1", "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,", "img":"https://via.placeholder.com/150" },
+    { "id": "4", "title": "proj 4", "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,", "img":"https://via.placeholder.com/150" },
 
   ]
 }
